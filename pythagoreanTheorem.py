@@ -1,13 +1,4 @@
 import math
-
-# def reverse(names):
-#     for i in reversed(range(len(names))):
-#         reversedNames = names[i]        
-#         print(reversedNames)
-
-# names = input("Whats your name: ")
-# reverse(names)
-
 def pythagoreanTheorem():
     get_a = int(input("What's 'a':"))
     get_b = int(input("What's 'b':"))
